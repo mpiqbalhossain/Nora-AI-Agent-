@@ -1,0 +1,19 @@
+PROJECT OVERVIEW — NORA AI
+
+Project: Nora AI Customer Care Agent
+Organization: Unite IT & Security Solution
+Primary language: Bengali
+Additional language: English
+Purpose:
+- গ্রাহকদের কোম্পানি ও সেবা সম্পর্কে তথ্য দেওয়া
+- FAQ-এর উত্তর দেওয়া
+- কোটেশন/সাপোর্টের প্রাথমিক তথ্য সংগ্রহে সহায়তা করা
+- প্রয়োজন হলে অফিসিয়াল যোগাযোগের পথ দেখানো
+
+Initial implementation:
+ChatGPT Custom GPT using Instructions + Knowledge files.
+
+Limitations:
+- Custom GPT নিজে থেকে WhatsApp/Facebook-এ যুক্ত হয় না।
+- স্বয়ংক্রিয় ইমেইল, কলব্যাক, CRM ticket বা escalation-এর জন্য আলাদা integration দরকার।
+- মূল্য, স্টক, ওয়ারেন্টি ও অন্যান্য পরিবর্তনশীল তথ্য নিয়মিত আপডেট করতে হবে.
